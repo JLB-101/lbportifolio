@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+Feel free to copy this  template!
 
 * Template Name: DevFolio - portifolio de desenvolvedor
 * Updated: Maio 10 2023 with Bootstrap v5.2.3
