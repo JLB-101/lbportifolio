@@ -9,7 +9,7 @@
 */
 
 /*--------------------------------------------------------------
-# General
+# Geral da pagina
 --------------------------------------------------------------*/
 body {
   background-color: #f5f5f5;
@@ -131,7 +131,7 @@ a:hover {
   vertical-align: middle;
 }
 
-/*--/ Sections /--*/
+/*--/ SEssoes /--*/
 .sect-4 {
   padding: 4rem 0;
 }
@@ -144,14 +144,14 @@ a:hover {
   margin-top: 4rem;
 }
 
-/*--/ Title s /--*/
+/*--/ Titulo s /--*/
 .title-s {
   font-weight: 600;
   color: #1e1e1e;
   font-size: 1.1rem;
 }
 
-/*--/ Title A /--*/
+/*--/ Titulo A /--*/
 .title-box {
   margin-bottom: 4rem;
 }
@@ -175,7 +175,7 @@ a:hover {
   margin: 0 auto;
 }
 
-/*--/ Title Left /--*/
+/*--/ Titulo a esquerda /--*/
 .title-box-2 {
   margin-bottom: 3rem;
 }
@@ -194,7 +194,7 @@ a:hover {
   bottom: -12px;
 }
 
-/*------/ Box /------*/
+/*------/ Caixa- Box /------*/
 .box-pl2 {
   padding-left: 2rem;
 }
@@ -214,7 +214,7 @@ a:hover {
   }
 }
 
-/*------/ Socials /------*/
+/*------/ Medias social /------*/
 .socials {
   padding: 1.5rem 0;
 }
@@ -263,7 +263,7 @@ a:hover {
   margin-right: 10px;
 }
 
-/*------/ Ico Circle /------*/
+/*------/Circulo --  Ico Circle /------*/
 .ico-circle {
   height: 100px;
   width: 100px;
@@ -306,7 +306,7 @@ a:hover {
   width: 25px;
 }
 
-/*--/ Scrolltop s /--*/
+/*--/Scrooll para cima /--*/
 .scrolltop-mf {
   position: relative;
   display: none;
@@ -332,7 +332,7 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
-# Back to top button
+# Voltar para o top
 --------------------------------------------------------------*/
 .back-to-top {
   position: fixed;
@@ -399,7 +399,7 @@ a:hover {
   }
 }
 
-/*------/ Button /------*/
+/*------/ Botoes /------*/
 .button {
   display: inline-block;
   padding: 0.3rem 0.6rem;
@@ -449,7 +449,7 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
-# Header
+# Header - menu
 --------------------------------------------------------------*/
 #header {
   transition: all 0.5s;
@@ -479,7 +479,7 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
-# Navigation Menu
+# Menu de Navegacao 
 --------------------------------------------------------------*/
 /**
 * Desktop Navigation 
@@ -736,7 +736,7 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
-# Hero Section
+#  Sessao Hero
 --------------------------------------------------------------*/
 .hero {
   height: 100vh;
@@ -824,7 +824,7 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
-# About
+# Sobre - About
 --------------------------------------------------------------*/
 .about-mf .box-shadow-full {
   padding-top: 4rem;
@@ -863,7 +863,7 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
-# Services
+# Servicos
 --------------------------------------------------------------*/
 .service-box {
   background-color: #fff;
@@ -993,7 +993,7 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
-# Portfolio Details
+# Detatlhes de Portfolio 
 --------------------------------------------------------------*/
 .portfolio-details {
   padding-top: 40px;
@@ -1058,7 +1058,7 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
-# Testimonials
+# Testimonhos
 --------------------------------------------------------------*/
 .testimonial-box {
   color: #fff;
@@ -1129,7 +1129,7 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
-# Contact
+# Contacto
 --------------------------------------------------------------*/
 .footer-paralax {
   padding: 4rem 0 0 0;
@@ -1287,7 +1287,7 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
-# Blog Single
+# Blog Unico
 --------------------------------------------------------------*/
 .post-box,
 .form-comments,
@@ -1390,7 +1390,7 @@ a:hover {
   margin-left: 40px;
 }
 
-/*------/ Sidebar /------*/
+/*------/Latera barr /------*/
 .widget-sidebar .sidebar-title {
   font-size: 1.6rem;
   font-weight: 600;
@@ -1442,7 +1442,7 @@ a:hover {
 }
 
 /*--------------------------------------------------------------
-# Footer
+# Rodape -- Footer
 --------------------------------------------------------------*/
 footer {
   text-align: center;
